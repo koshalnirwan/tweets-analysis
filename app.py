@@ -26,10 +26,10 @@ tweetText = []
 sent = []
 
 # authenticating
-consumerKey ='PeNO4AFR3sSTd1FjJ6C5wkvSa'   
-consumerSecret ='iu30k0tGtZSudg6ffVK3Wnh329olWlmcNPrkfQcyVkDL4fSxZi'  
-accessToken ='1192172481227804672-VMiywuiJZm6qVRAlCgt9T69RScyGlI'
-accessTokenSecret ='nVwmzsTFapZhENfLmAHmks8MpZ6Z8sVG09V85jkW7ktcT'
+consumerKey ='XXXXXXXXXXXXXXXXX'   
+consumerSecret ='XXXXXXXXXXXXXXXXXXXXXXXXX'  
+accessToken ='XXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+accessTokenSecret ='XXXXXXXXXXXXXXXXXXXXXXX'
 
 auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
 auth.set_access_token(accessToken, accessTokenSecret)
