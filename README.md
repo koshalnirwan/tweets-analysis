@@ -16,6 +16,7 @@ Most NLP techniques rely on machine learning to derive meaning from human langua
 ***2. Fetched tweets are then cleaned by removing special characters and links to make text relevent for processing.***
 
 
+
 Before Cleaning                                                           |  After Cleaning
 :------------------------------------------------------------------------:|:-------------------------:
 [<img src="screenshots/dirty.JPG" width="500"/>](screenshots/dirty.JPG)   |  [<img src="screenshots/cleaned.JPG" width="500"/>](screenshots/cleaned.JPG)
@@ -34,6 +35,7 @@ polarity  = -1.00 to -0.60 ----> Strong Negative
 ```
 
 ***3. Percentage for each sentiment or polarity is calculated separately like for positive, negative, neutral etc.***
+
 
 ***4. The derived information is then plotted using a Pie chart***
 
